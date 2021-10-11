@@ -45,6 +45,6 @@ export default {
   build: {
   },
    router: {
-    //base: "/vue_app/"
+    base: "/dist/"
   },
 }
